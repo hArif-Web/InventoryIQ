@@ -369,7 +369,7 @@ li a {
 }
 
 
- @media only screen and (min-width:450px) and (max-width:575.98px) {
+ @media only screen and (min-width:300px) and (max-width:575.98px) {
 /* Styles for Portrait phones */
 #section1, #section2, #section3, #section4 , #section5 , #section6 {
   border-bottom: 1px solid #FDBB72;
